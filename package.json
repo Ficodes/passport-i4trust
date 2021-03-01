@@ -17,6 +17,9 @@
     "dependencies": {
         "passport-oauth2": "^1.5.0",
         "moment": "^2.29.1",
-        "uuid": "^8.3.2"
+        "uuid": "^8.3.2",
+        "node-fetch": "^2.6.1",
+        "base64url": "^3.0.1",
+        "jsonwebtoken": "^8.5.1"
     }
 }
