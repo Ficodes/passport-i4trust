@@ -14,6 +14,7 @@
         "name": "Francisco de la Vega",
         "email": "fdelavega@ficodes.com"
     },
+    "main": "./lib/passport-i4trust",
     "dependencies": {
         "passport-oauth2": "^1.5.0",
         "moment": "^2.29.1",
